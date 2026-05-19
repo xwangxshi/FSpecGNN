@@ -1,0 +1,7 @@
+Conda environment can be:
+
+conda env create -f FSpecGNN.yml
+
+To reproduce results on heterophilic node classification, go to Heterophily directory;
+
+To reproduce results on expressivity, go to Hom-Cycle-count directory;
